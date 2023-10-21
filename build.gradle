@@ -53,3 +53,5 @@ tasks.withType(JavaCompile)
         }
 
 //'com.codeborne:selenide:6.7.2'
+
+test {}
